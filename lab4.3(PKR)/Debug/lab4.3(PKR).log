@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\ПКР\Звіти 4\lab4.3(PKR)\Source.cpp(15,6): warning C4101: 'name': unreferenced local variable
+D:\ПКР\Звіти 4\lab4.3(PKR)\Source.cpp(52,6): warning C4101: 'name': unreferenced local variable
+  lab4.3(PKR).vcxproj -> D:\ПКР\Звіти 4\lab4.3(PKR)\Debug\lab4.3(PKR).exe
